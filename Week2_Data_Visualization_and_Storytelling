@@ -1,0 +1,50 @@
+# 📅 Week 2 – Data Visualization & Storytelling
+
+In Week 2, the focus was on transforming cleaned data into **interactive, insightful, and visually compelling dashboards**.  
+This phase emphasized **data storytelling**, helping stakeholders quickly grasp patterns, performance metrics, and actionable insights.
+
+---
+
+## 🎯 Objectives
+
+- Connect PostgreSQL database or cleaned CSVs to **Power BI / Tableau**
+- Design key visualizations for:
+  - Applicant engagement
+  - Campaign effectiveness
+  - Outreach performance
+- Build an **interactive dashboard** with filters, drill-throughs, and slicers
+- Highlight **data-driven stories** through visual narratives
+
+---
+
+## 📊 Deliverables
+
+| File | Description |
+|------|--------------|
+| `Dashboard_Design.pbix` | Power BI dashboard visualizing key KPIs |
+| `Visualization_Report.pdf` | Overview of visualization decisions and key insights |
+| `Dashboard_Screenshots/` | Screenshots of dashboard visuals for documentation |
+
+---
+
+## 🛠️ Tools & Techniques
+
+- **Power BI / Tableau** – Dashboard design  
+- **Python (Matplotlib, Seaborn)** – Complementary visual exploration  
+- **PostgreSQL** – Data connection and queries  
+- **Design Principles:** Clarity, accessibility, interactivity  
+
+---
+
+## 💡 Key Highlights
+
+- Developed a **multi-view dashboard** showcasing cross-department performance metrics  
+- Used **color theory and chart selection best practices** for visual clarity  
+- Implemented **interactive filters** for applicant and campaign segmentation  
+- Presented findings using **narrative-driven storytelling**
+
+---
+
+## 📎 Next Steps
+
+➡️ Proceed to **Week 3 – Insight Reporting & Advanced Analytics**, focusing on trend analysis and predictive insight generation.

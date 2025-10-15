@@ -84,20 +84,20 @@ It demonstrates the full workflow — from raw data exploration to PostgreSQL da
 
 ## 📂 Repository Structure
 Data-Visualization-Internship-Lwazi-Nhlapo/
-│
-├── 📁 Week1_EDA_and_Cleaning/
-│ ├── README.md # Overview of Week 1 tasks and methods
-│ ├── EDA_Report.md # In-depth exploratory analysis notes
-│ ├── SQL_DataProof.sql # SQL validation and setup queries
-│ └── cleaned_dataset.csv # Processed and cleaned dataset
-│
-├── 📁 assets/
-│ ├── screenshots/ # PostgreSQL setup and import proof
-│ └── visuals/ # EDA graphs or Power BI images
-│
-├── 📄 internship_overview.pdf # Official task or project overview
-├── 📘 requirements.txt # Python dependencies (if applicable)
-└── README.md # You’re here!
+-│
+-├── 📁 Week1_EDA_and_Cleaning/
+-│ ├── README.md # Overview of Week 1 tasks and methods
+-│ ├── EDA_Report.md # In-depth exploratory analysis notes
+-│ ├── SQL_DataProof.sql # SQL validation and setup queries
+-│ └── cleaned_dataset.csv # Processed and cleaned dataset
+-│
+-├── 📁 assets/
+-│ ├── screenshots/ # PostgreSQL setup and import proof
+-│ └── visuals/ # EDA graphs or Power BI images
+-│
+-├── 📄 internship_overview.pdf # Official task or project overview
+-├── 📘 requirements.txt # Python dependencies (if applicable)
+-└── README.md # You’re here!
 
 
 ---

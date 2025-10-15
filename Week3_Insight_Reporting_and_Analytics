@@ -1,0 +1,56 @@
+# 📅 Week 3 – Insight Reporting & Advanced Analytics
+
+Week 3 focused on producing **insight-driven reports and advanced analytics**.  
+The goal was to uncover deeper relationships, trends, and performance indicators using statistical and data modeling techniques.
+
+---
+
+## 🎯 Objectives
+
+- Perform **trend and correlation analysis** using SQL and Python  
+- Build **KPI-based summary reports** and advanced charts  
+- Evaluate the impact of outreach and campaign activities  
+- Use analytical reasoning to support data-driven decisions  
+
+---
+
+## 📈 Deliverables
+
+| File | Description |
+|------|--------------|
+| `Insight_Report.pdf` | Consolidated analysis with visuals and interpretations |
+| `Advanced_Queries.sql` | SQL scripts for aggregated KPIs and trend analysis |
+| `Analytics_Notebook.ipynb` | Python notebook for in-depth statistical exploration |
+
+---
+
+## 🧠 Key Insights
+
+- Identified high-performing campaigns based on applicant conversion ratios  
+- Found temporal patterns in outreach engagement rates  
+- Quantified campaign ROI through data correlation analysis  
+
+---
+
+## 🛠️ Tools & Techniques
+
+- **Python:** Pandas, Matplotlib, Seaborn  
+- **SQL:** Joins, aggregate functions, subqueries  
+- **Power BI:** Trend and comparative visuals  
+- **Statistical Concepts:** Correlation, distribution, KPI tracking  
+
+---
+📁 Folder Structure
+Week3_Insight_Reporting_and_Analytics/
+- │
+- ├── README.md
+- ├── Insight_Report.pdf
+- ├── Advanced_Queries.sql
+- └── Analytics_Notebook.ipynb
+
+
+---
+
+## 📎 Next Steps
+
+➡️ Proceed to **Week 4 – Final Presentation & Internship Reflection**, where findings are consolidated into a professional report and portfolio showcase.

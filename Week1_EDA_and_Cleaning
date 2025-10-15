@@ -1,0 +1,53 @@
+# 📅 Week 1 – Exploratory Data Analysis (EDA) & Data Cleaning
+
+Welcome to **Week 1** of the Data Visualization Internship project!  
+In this phase, I focused on **data preparation, cleaning, and exploratory analysis** to ensure dataset accuracy and usability for visualization.
+
+---
+
+## 🧹 Objectives
+
+- Import raw data from multiple sources (CSV / Excel)
+- Handle missing values, duplicates, and data type inconsistencies
+- Identify outliers and perform normalization where necessary
+- Conduct exploratory data analysis to uncover trends and patterns
+- Generate initial summary reports and visualizations
+
+---
+
+## 📁 Folder Structure
+
+| File | Description |
+|------|--------------|
+| `EDA_Report.md` | Detailed report describing the data cleaning process and key insights from the exploratory data analysis |
+| `SQL_DataProof.sql` | SQL queries used to validate data integrity, perform aggregation, and check consistency of key metrics |
+| `cleaned_dataset.csv` | Processed dataset ready for visualization (if not sensitive) |
+
+---
+
+## 🛠️ Tools & Libraries Used
+
+- **Python** – Pandas, NumPy, Matplotlib, Seaborn  
+- **SQL** – Data validation and integrity checks  
+- **Excel / CSV** – Source data  
+- **Power BI / Tableau** – Used in later weeks for visualization
+
+---
+
+## 📊 Summary of Insights
+
+- Identified missing values in key numeric fields and imputed using median values  
+- Removed 2% duplicate records from dataset  
+- Found strong correlation between *marketing spend* and *customer engagement* metrics  
+- Highlighted seasonal trends for further visualization in Week 2
+
+---
+
+## 📎 Next Steps
+
+➡️ Proceed to **Week 2 – Data Visualization Design & Dashboard Building**, where the cleaned data will be visualized using Power BI and Python.
+
+---
+
+🧾 **Author:** [Lwazi Junior Nhlapo](https://www.linkedin.com/in/lwazi-junior-nhlapo)  
+📍 Johannesburg, South Africa  

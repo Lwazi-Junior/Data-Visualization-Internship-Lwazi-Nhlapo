@@ -1,46 +1,40 @@
 # 📊 Data Visualization Internship — Lwazi Nhlapo
 
-> **End-to-end data cleaning, exploratory analysis, and PostgreSQL setup for Applicant, Outreach, and Campaign datasets — part of the Data Visualization Associate Internship at Excelerate.**
+> **End-to-end data cleaning, exploratory analysis, visualization, and insight reporting — part of the Data Visualization Associate Internship at Excelerate.**
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql)
 ![SQL](https://img.shields.io/badge/SQL-Queries-orange?logo=sqlite)
 ![Data-Cleaning](https://img.shields.io/badge/Data_Cleaning-Verified-brightgreen)
 ![EDA](https://img.shields.io/badge/EDA-Exploratory_Analysis-yellow)
-![Status](https://img.shields.io/badge/Status-Week_1_Complete-success)
+![Visualization](https://img.shields.io/badge/Visualization-Dashboards-blueviolet)
+![Status](https://img.shields.io/badge/Status-Complete-success)
 
 ---
 
 ## 🧠 Project Overview
 
-This repository documents my **Week 1 deliverables** from the *Data Visualization Associate Internship*, focusing on developing clean, structured, and analysis-ready data.  
-It demonstrates the full workflow — from raw data exploration to PostgreSQL database creation — ensuring **data accuracy, reliability, and integrity** for later visualization.
+This repository documents my **Data Visualization Associate Internship** at Excelerate, covering **Week 1–4 deliverables**.  
+The project demonstrates a complete workflow:
+
+1. **Week 1:** Data exploration, cleaning, validation, and PostgreSQL setup  
+2. **Week 2:** Data visualization, dashboard creation, and storytelling  
+3. **Week 3:** Insight reporting, advanced analytics, and SQL-based validation  
+4. **Week 4:** Final presentation, reflective report, and portfolio compilation  
+
+The goal is to transform **raw datasets** into **actionable, reliable, and visually compelling insights** for stakeholders.
 
 ---
 
 ## 🚀 Objectives
 
-1. **Explore Datasets:**  
-   - Applicant Data  
-   - Outreach Data  
-   - Campaign Data  
-
-2. **Perform Exploratory Data Analysis (EDA):**  
-   - Detect trends, patterns, missing values, and anomalies  
-   - Visualize preliminary insights through charts and summaries  
-
-3. **Clean & Validate Data:**  
-   - Handle missing values and duplicates  
-   - Correct inaccuracies and standardize formats  
-   - Document cleaning steps and solutions  
-
-4. **Set Up PostgreSQL Environment:**  
-   - Create database and import cleaned datasets  
-   - Run integrity queries to confirm data accuracy  
-
-5. **Build a Master Table:**  
-   - Integrate all datasets using common identifiers (Applicant ID, Campaign ID)  
-   - Verify relational consistency across all data tables  
+- Explore and understand datasets: Applicant, Outreach, and Campaign Data  
+- Perform **Exploratory Data Analysis (EDA)** to identify trends and anomalies  
+- Clean and validate data for accuracy, completeness, and consistency  
+- Build a **PostgreSQL database** and structured Master Table  
+- Create **interactive dashboards** in Looker Studio / Power BI  
+- Generate **insight-driven reports** with advanced analytics  
+- Present final findings with storytelling and professional documentation  
 
 ---
 
@@ -48,61 +42,26 @@ It demonstrates the full workflow — from raw data exploration to PostgreSQL da
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
-| **Languages** | SQL, Python (Pandas, Matplotlib) |
+| **Languages** | Python (Pandas, Matplotlib, Seaborn), SQL |
 | **Database** | PostgreSQL, pgAdmin |
+| **Visualization** | Power BI, Looker Studio |
 | **Environment** | Jupyter Notebook, Excel / Google Sheets |
-| **Concepts** | Data Profiling, Data Cleaning, ETL Workflow, Relational Design |
+| **Concepts** | EDA, Data Cleaning, ETL Workflow, Relational Design, Data Storytelling |
 
 ---
 
 ## 📈 Deliverables
 
-- 📄 **EDA Report (PDF):** Dataset understanding, trends, and anomaly detection  
-- 🧹 **Data Cleaning Summary:** Documenting data quality issues and resolutions  
-- 🧩 **PostgreSQL Setup Proof:** Screenshots or SQL outputs showing database creation and data import  
-- 🗃️ **Master Table Creation:** Evidence of integrated and validated relational tables  
+- **EDA Report (PDF)** — Week 1: Dataset understanding and patterns  
+- **Data Cleaning Summary** — Week 1: Issues and applied solutions  
+- **PostgreSQL Setup Proof** — Week 1: Database creation and data import  
+- **Interactive Dashboards** — Week 2: Visual storytelling of KPIs  
+- **Insight Reports & SQL Scripts** — Week 3: Advanced analytics and validation  
+- **Final Presentation & Portfolio** — Week 4: Consolidated findings and reflections  
 
 ---
-
-## 🏆 Key Highlights
-
-- Implemented full **data-cleaning and validation workflow** to ensure trustworthy insights.  
-- Designed a **relational database** to enable structured queries and efficient analytics.  
-- Documented a reproducible **ETL process** for future scalability.  
-- Built a strong foundation for upcoming **visualization and storytelling** tasks in Week 2.  
-
----
-
-## 🎯 Learning Outcomes
-
-- Mastered real-world data preprocessing and cleaning techniques.  
-- Strengthened SQL and PostgreSQL skills for professional data analysis.  
-- Gained hands-on experience in building structured, reliable data pipelines.  
-- Enhanced ability to communicate insights clearly through documentation and visuals.  
-
----
-
-## 📂 Repository Structure
-
-Data-Visualization-Internship-Lwazi-Nhlapo/
-- │
-- ├── 📁 Week1_EDA_and_Cleaning/
-- │ ├── README.md # Overview of Week 1 tasks and methods
-- │ ├── EDA_Report.md # In-depth exploratory analysis notes
-- │ ├── SQL_DataProof.sql # SQL validation and setup queries
-- │ └── cleaned_dataset.csv # Processed and cleaned dataset
-- │
-- ├── 📁 assets/
-- │ ├── screenshots/ # PostgreSQL setup and import proof
-- │ └── visuals/ # EDA graphs or Power BI images
-- │
-- ├── 📄 internship_overview.pdf # Official task or project overview
-- ├── 📘 requirements.txt # Python dependencies (if applicable)
-- └── README.md # You’re here!
 
 ## 📂 Internship Week-by-Week Navigation
-
-Explore each week’s deliverables, learning outcomes, and projects below:
 
 | Week | Focus | Link |
 |------|-------|------|
@@ -111,22 +70,31 @@ Explore each week’s deliverables, learning outcomes, and projects below:
 | 3️⃣ | **Insight Reporting & Analytics** | [Week 3 – Advanced Analytics & SQL](./Week3_Insight_Reporting_and_Analytics/README.md) |
 | 4️⃣ | **Final Presentation & Reflection** | [Week 4 – Final Report & Portfolio](./Week4_Final_Presentation_and_Reflection/README.md) |
 
----
-
-💡 **Tip:** Click on each link to access detailed files, dashboards, SQL scripts, reports, and reflections for that specific week.
+💡 **Tip:** Click each link to explore detailed files, dashboards, SQL scripts, reports, and reflections for that week.
 
 ---
 
-## 💬 Connect With Me
+## 🏆 Key Highlights
+
+- Full **end-to-end internship workflow**: Data cleaning → analysis → dashboards → insights → presentation  
+- Built **reproducible ETL processes** for future scalability  
+- Developed **interactive, stakeholder-ready dashboards**  
+- Strengthened **SQL, PostgreSQL, and Python skills** for professional data work  
+- Practiced **data storytelling** for clear communication of insights  
+
+---
+
+## 💼 Author
 
 👤 **Lwazi Junior Nhlapo**  
-🎓 *Data Analyst | Aspiring Data Scientist | BSc IT Graduate*  
-🌍 Johannesburg, South Africa  
+🎓 *BSc Information Technology — North-West University*  
+💡 *Aspiring Data Scientist / Analyst*  
+📍 *Johannesburg, South Africa*  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/lwazi-junior-nhlapo)  
-💻 [GitHub](https://github.com/lwazijuniornhlapo)
+📫 **Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/lwazi-junior-nhlapo)  
+- [GitHub](https://github.com/LwaziJuniorNhlapo)  
 
 ---
 
-⭐ *If you found this project insightful, feel free to star the repository or connect with me on LinkedIn!* 🌟
-
+⭐ **If you find this project valuable, please give it a star — it helps others discover it!**

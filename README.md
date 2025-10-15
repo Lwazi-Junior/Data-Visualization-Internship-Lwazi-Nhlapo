@@ -85,7 +85,7 @@ It demonstrates the full workflow — from raw data exploration to PostgreSQL da
 ## 📂 Repository Structure
 
 Data-Visualization-Internship-Lwazi-Nhlapo/
-│
+- │
 - ├── 📁 Week1_EDA_and_Cleaning/
 - │ ├── README.md # Overview of Week 1 tasks and methods
 - │ ├── EDA_Report.md # In-depth exploratory analysis notes

@@ -100,6 +100,20 @@ Data-Visualization-Internship-Lwazi-Nhlapo/
 - ├── 📘 requirements.txt # Python dependencies (if applicable)
 - └── README.md # You’re here!
 
+## 📂 Internship Week-by-Week Navigation
+
+Explore each week’s deliverables, learning outcomes, and projects below:
+
+| Week | Focus | Link |
+|------|-------|------|
+| 1️⃣ | **Data Exploration & Cleaning** | [Week 1 – EDA & Cleaning](./Week1_EDA_and_Cleaning/README.md) |
+| 2️⃣ | **Data Visualization & Storytelling** | [Week 2 – Visualization & Dashboards](./Week2_Data_Visualization_and_Storytelling/README.md) |
+| 3️⃣ | **Insight Reporting & Analytics** | [Week 3 – Advanced Analytics & SQL](./Week3_Insight_Reporting_and_Analytics/README.md) |
+| 4️⃣ | **Final Presentation & Reflection** | [Week 4 – Final Report & Portfolio](./Week4_Final_Presentation_and_Reflection/README.md) |
+
+---
+
+💡 **Tip:** Click on each link to access detailed files, dashboards, SQL scripts, reports, and reflections for that specific week.
 
 ---
 
